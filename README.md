@@ -1,4 +1,4 @@
-# 🌸 Feedforward Neural Network for Iris Flower Classification 🌸
+# 🧑‍💻 Feedforward Neural Network for Iris Flower Classification 🌸
 
 Welcome to the **Feedforward Neural Network (FFNN)** project for classifying Iris flower species! This project leverages deep learning concepts to accurately predict the species of an Iris flower based on its sepal and petal measurements. 🚀
 
