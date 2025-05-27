@@ -69,6 +69,6 @@ Welcome to the **Feedforward Neural Network (FFNN)** project for classifying Iri
  - Explains key neural network concepts with practical coding.
 
 ## 🤝 Contributing
- - Feel free to fork this repository and make contributions! Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Good Luck
+ - Feel free to fork this repository and make contributions! Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Good Luck.
 
 
