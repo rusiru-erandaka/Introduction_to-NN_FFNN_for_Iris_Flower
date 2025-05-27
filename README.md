@@ -17,7 +17,7 @@ Welcome to the **Feedforward Neural Network (FFNN)** project for classifying Iri
 
 ### 3. **Activation Functions**
    - **ReLU (Rectified Linear Unit)**: Introduces non-linearity and handles vanishing gradients.
-   - **Softmax**: Converts outputs into probabilities for multi-class classification.
+   - **Softmax**: Converts outputs into probabilities for multi-class classification probabilities.
 
 ### 4. **Loss Function**
    - **Categorical Cross-Entropy**: Measures the difference between the predicted probability distribution and the true distribution.
