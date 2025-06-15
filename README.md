@@ -58,7 +58,7 @@ Welcome to the **Feedforward Neural Network (FFNN)** project for classifying Iri
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/FFNN-for-Iris.git
+   git clone https://github.com/rusiru-erandaka/Introduction_to-NN_FFNN_for_Iris_Flower.git
 
 
 ## 🌟 Features
